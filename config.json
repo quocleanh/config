@@ -1,5 +1,5 @@
 {
-  "IsLogin": true,
+  "IsLogin": false,
   "MachineID": "",
   "Endpoint" : "https://pos.theblues.vn/"
 }
